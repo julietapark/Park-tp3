@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Doto:wght@100..900&display=swap');
+
+.navbar-brand img{
+    width: 40px;
+}
+
+.navbar-toggle span{
+    color: white
+}
+
+body{
+    font-family: "Bricolage Grotesque", serif;
+
+}
+h1,h2,h3{
+    font-family: "Doto", sans-serif;
+    font-weight: 900;
+}
+
+footer{
+    background-color: red;
+}
+
